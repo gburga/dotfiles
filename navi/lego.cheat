@@ -1,0 +1,13 @@
+% lego
+
+# Levanta todo el entorno en función de los ficheros contenidos en config_test
+lego up
+
+# Imprime por pantalla todo el log de la ejecución en lugar de guardarlo en el archivo lego_conf/lego.log
+lego up --debug
+
+# Se salta la comprobación para la descarga de los requirements de lego
+lego up --skip-requirements
+
+# Evita la descarga de las imágenes docker y fuerza el uso de las imágenes cacheadas
+lego up --no-pull-image
