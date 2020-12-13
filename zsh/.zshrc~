@@ -135,8 +135,6 @@ alias mci="mvn clean install"
 alias wz="cd /Users/giulio.burga/workspace_zara"
 alias wzc="cd /Users/giulio.burga/workspace_zara/compliance"
 
-# Code
-alias codely="cd $HOME/code/codely"
 
 # PROMPT
 RPROMPT='%T'

@@ -401,7 +401,7 @@
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/code/dotfiles/iterm</string>
+	<string>~</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{799, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -448,7 +448,7 @@
 	<key>NSWindow Frame NSNavPanelAutosaveName</key>
 	<string>880 456 799 448 0 0 2560 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>1 0 1527 1057 0 0 2560 1057 </string>
+	<string>161 3 1277 871 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>402 118 570 429 0 0 2560 1057 </string>
 	<key>New Bookmarks</key>
@@ -2070,7 +2070,7 @@
 		<key>screenFrame</key>
 		<string>{{0, 0}, {2560, 1080}}</string>
 		<key>topLeft</key>
-		<string>{750, 940}</string>
+		<string>{751, 899}</string>
 	</dict>
 	<key>NoSyncHaveUsedCopyMode</key>
 	<true/>
@@ -2081,7 +2081,7 @@
 	<key>NoSyncLastTipTime</key>
 	<real>621978000.04474604</real>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>66</integer>
+	<integer>79</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -2834,6 +2834,8 @@
 	</dict>
 	<key>OnlyWhenMoreTabs</key>
 	<false/>
+	<key>PMPrintingExpandedStateForPrint2</key>
+	<false/>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -2868,7 +2870,9 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/giulio.burga/code/dotfiles/iterm</string>
+	<string>/Users/giulio.burga/.dotfiles/iterm</string>
+	<key>Print In Black And White</key>
+	<true/>
 	<key>PromptOnQuit</key>
 	<false/>
 	<key>SUEnableAutomaticChecks</key>
@@ -2880,7 +2884,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-11-01T19:55:20Z</date>
+	<date>2020-11-13T08:05:46Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowPaneTitles</key>
